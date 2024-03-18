@@ -1,0 +1,6 @@
+
+0: New account id is 12345 with password 1234 and initial balance 100
+0: Account 12345 new balance is 50 after 50 $ was withdrew
+0: Account 12345 new balance is 62 after 12 $ was deposited
+0: New account id is 12346 with password 234 and initial balance 200
+Error 0: Your transaction failed - password for account id 12346 is incorrect
